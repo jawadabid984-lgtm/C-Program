@@ -1,3 +1,5 @@
+Question: Write a C++ program that takes the mobile battery percentage as input. If the battery level is 15% or less, display "Low Battery! Please Charge Your Phone".
+
 #include <iostream>
 using namespace std;
 
