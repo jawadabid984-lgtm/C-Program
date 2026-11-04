@@ -1,3 +1,5 @@
+Question: Write a C++ program that takes the total shopping amount as input. If the amount is Rs. 3,000 or more, display "Congratulations! You Qualify for Free Delivery".
+
 #include <iostream>
 using namespace std;
 
