@@ -1,3 +1,5 @@
+Question: Write a C++ program that takes an employee's attendance percentage as input. If the attendance percentage is below 75%, display "Attendance Warning".
+
 #include <iostream>
 using namespace std;
 
