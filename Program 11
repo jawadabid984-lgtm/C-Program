@@ -1,3 +1,5 @@
+Question: Write a C++ program that takes the remaining exam time in minutes as input. If 5 minutes or less remain, display "Warning: Exam Is About to End".
+
 #include <iostream>
 using namespace std;
 
